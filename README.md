@@ -1,4 +1,5 @@
 # vim-config
+
 - vim需要升级到最新版本,下载地址
 
   ```url
@@ -11,13 +12,13 @@
   configure --with-python-config-dir
   ```
 
-- 包括vimrc配置文件以及vim插件
-
 - vim.zip下载地址
 
   链接: https://pan.baidu.com/s/1ijTANRz8j27LeugoGF0QRg 
 
   提取码: 2ptw 
+  
+  
 
 vim.zip为vim文件夹的zip压缩包,解压后生成.vim文件夹
 
